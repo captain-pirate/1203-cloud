@@ -1,0 +1,10 @@
+# Project exclude paths
+/1203-cloud-common/target/
+/1203-cloud-config/target/
+/1203-cloud-config2/target/
+/1203-cloud-eureka2/target/
+/1203-cloud-eureka-cluster/target/
+/1203-cloud-feign-consumer/target/
+/1203-cloud-privider/target/
+/1203-cloud-ribbon-consumer/target/
+/1203-cloud-zuul-server/target/
